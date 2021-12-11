@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Assignment2.MainPage"
+             Title="Restaurant Search Page">
+
+    <StackLayout Orientation="Vertical" VerticalOptions="Center">
+        <StackLayout Orientation="Vertical">
+            <Label Text="Province/State"/>
+            <Entry x:Name="ProvinceData" HorizontalOptions="FillAndExpand" Placeholder="Ontario"/>
+        </StackLayout>
+        <StackLayout Orientation="Vertical">
+            <Label Text="City           "/>
+            <Entry x:Name="CityData" HorizontalOptions="FillAndExpand" Placeholder="Toronto"/>
+        </StackLayout>
+        <StackLayout Orientation="Vertical">
+            <Label Text="Type of Food"/>
+            <Entry x:Name="FoodData" HorizontalOptions="FillAndExpand" Placeholder="Ramen"/>
+
+
+        </StackLayout>
+        <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+            <Button Text="Find Restaurants" Clicked="Button_Search"></Button>
+            <Button Text="Saved Restaurants" Clicked="Button_Saved"></Button>
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>

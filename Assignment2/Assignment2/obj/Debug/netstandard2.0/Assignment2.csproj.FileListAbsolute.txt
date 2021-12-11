@@ -1,0 +1,17 @@
+C:\Users\Derek\Desktop\School\Semester 7\DPS_Cross\assignment2\Assignment2\Assignment2\Assignment2\bin\Debug\netstandard2.0\Assignment2.deps.json
+C:\Users\Derek\Desktop\School\Semester 7\DPS_Cross\assignment2\Assignment2\Assignment2\Assignment2\bin\Debug\netstandard2.0\Assignment2.dll
+C:\Users\Derek\Desktop\School\Semester 7\DPS_Cross\assignment2\Assignment2\Assignment2\Assignment2\bin\Debug\netstandard2.0\ref\Assignment2.dll
+C:\Users\Derek\Desktop\School\Semester 7\DPS_Cross\assignment2\Assignment2\Assignment2\Assignment2\bin\Debug\netstandard2.0\Assignment2.pdb
+C:\Users\Derek\Desktop\School\Semester 7\DPS_Cross\assignment2\Assignment2\Assignment2\Assignment2\obj\Debug\netstandard2.0\Assignment2.csproj.AssemblyReference.cache
+C:\Users\Derek\Desktop\School\Semester 7\DPS_Cross\assignment2\Assignment2\Assignment2\Assignment2\obj\Debug\netstandard2.0\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Derek\Desktop\School\Semester 7\DPS_Cross\assignment2\Assignment2\Assignment2\Assignment2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Derek\Desktop\School\Semester 7\DPS_Cross\assignment2\Assignment2\Assignment2\Assignment2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Derek\Desktop\School\Semester 7\DPS_Cross\assignment2\Assignment2\Assignment2\Assignment2\obj\Debug\netstandard2.0\ResultsPage.xaml.g.cs
+C:\Users\Derek\Desktop\School\Semester 7\DPS_Cross\assignment2\Assignment2\Assignment2\Assignment2\obj\Debug\netstandard2.0\SavedRestaurantsPage.xaml.g.cs
+C:\Users\Derek\Desktop\School\Semester 7\DPS_Cross\assignment2\Assignment2\Assignment2\Assignment2\obj\Debug\netstandard2.0\Assignment2.AssemblyInfoInputs.cache
+C:\Users\Derek\Desktop\School\Semester 7\DPS_Cross\assignment2\Assignment2\Assignment2\Assignment2\obj\Debug\netstandard2.0\Assignment2.AssemblyInfo.cs
+C:\Users\Derek\Desktop\School\Semester 7\DPS_Cross\assignment2\Assignment2\Assignment2\Assignment2\obj\Debug\netstandard2.0\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\Derek\Desktop\School\Semester 7\DPS_Cross\assignment2\Assignment2\Assignment2\Assignment2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Derek\Desktop\School\Semester 7\DPS_Cross\assignment2\Assignment2\Assignment2\Assignment2\obj\Debug\netstandard2.0\Assignment2.dll
+C:\Users\Derek\Desktop\School\Semester 7\DPS_Cross\assignment2\Assignment2\Assignment2\Assignment2\obj\Debug\netstandard2.0\ref\Assignment2.dll
+C:\Users\Derek\Desktop\School\Semester 7\DPS_Cross\assignment2\Assignment2\Assignment2\Assignment2\obj\Debug\netstandard2.0\Assignment2.pdb
